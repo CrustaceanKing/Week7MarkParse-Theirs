@@ -1,2 +1,1 @@
-# Week7MarkParse-Theirs
-Group 6
+# markdown-parser
